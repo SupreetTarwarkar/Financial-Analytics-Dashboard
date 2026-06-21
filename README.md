@@ -130,9 +130,36 @@ Financial institutions generate large volumes of transaction data every day. How
 
 ## Dataset
 
-The project uses the following datasets:
+The dashboard uses customer and financial transaction datasets containing:
 
 - customers.csv
 - finance_transactions.csv
 
 Dataset files are available in the Dataset folder of this repository.
+
+## SQL Scripts
+
+The project includes SQL scripts used for data preparation and KPI analysis.
+
+- data_preparation.sql
+  - Created derived columns
+  - Transaction Year and Month columns
+  - Age Group categorization
+  - Income Range categorization
+
+- finance_analysis.sql
+  - KPI calculations
+  - Revenue analysis
+  - Customer analysis
+  - Transaction analysis
+  - Fraud analysis
+
+SQL files are available in the SQL folder of this repository.
+
+## Power BI Report
+
+The complete Power BI dashboard file is included in this repository.
+
+- Financial Report.pbix
+
+The PBIX file can be downloaded to explore the report, data model, measures, and visualizations.
