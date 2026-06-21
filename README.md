@@ -127,3 +127,12 @@ Financial institutions generate large volumes of transaction data every day. How
 ### Customer Performance
 
 ![Customer Performance](Images/5.%20Customer_Performance.png)
+
+## Dataset
+
+The project uses the following datasets:
+
+- customers.csv
+- finance_transactions.csv
+
+Dataset files are available in the Dataset folder of this repository.
