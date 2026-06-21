@@ -8,13 +8,13 @@ End-to-end financial analytics solution developed using Microsoft Fabric and Pow
 
 The dashboard was built using the following tools and technologies:
 
-- Microsoft Fabric – Data engineering, storage, and analytics platform
-- Power BI – Data visualization and reporting
-- Power Query – Data transformation and cleaning
-- DAX (Data Analysis Expressions) – Measures and business calculations
-- Data Modeling – Relationship management and analytical structure
-- SQL – Data extraction and transformation
-- Excel – Source data preparation and validation
+- Microsoft Fabric : Data engineering, storage, and analytics platform
+- Power BI : Data visualization and reporting
+- Power Query : Data transformation and cleaning
+- DAX (Data Analysis Expressions) : Measures and business calculations
+- Data Modeling : Relationship management and analytical structure
+- SQL : Data extraction and transformation
+- Excel : Source data preparation and validation
 
 ## Data Source
 
@@ -110,10 +110,20 @@ Financial institutions generate large volumes of transaction data every day. How
 
 ### Business Overview
 
+![Business Overview](1.%20Business_Overview.png)
+
 ### Customer Analytics
+
+![Customer Analytics](2.%20Customer_Analytics.png)
 
 ### Revenue Analytics
 
+![Revenue Analytics](3.%20Revenue_Analytics.png)
+
 ### Geographic Analytics
 
+![Geographic Analytics](4.%20Geographic_Analytics.png)
+
 ### Customer Performance
+
+![Customer Performance](5.%20Customer_Performance.png)
