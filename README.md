@@ -110,20 +110,20 @@ Financial institutions generate large volumes of transaction data every day. How
 
 ### Business Overview
 
-![Business Overview](1.%20Business_Overview.png)
+![Business Overview](Images/1.%20Business_Overview.png)
 
 ### Customer Analytics
 
-![Customer Analytics](2.%20Customer_Analytics.png)
+![Customer Analytics](Images/2.%20Customer_Analytics.png)
 
 ### Revenue Analytics
 
-![Revenue Analytics](3.%20Revenue_Analytics.png)
+![Revenue Analytics](Images/3.%20Revenue_Analytics.png)
 
 ### Geographic Analytics
 
-![Geographic Analytics](4.%20Geographic_Analytics.png)
+![Geographic Analytics](Images/4.%20Geographic_Analytics.png)
 
 ### Customer Performance
 
-![Customer Performance](5.%20Customer_Performance.png)
+![Customer Performance](Images/5.%20Customer_Performance.png)
