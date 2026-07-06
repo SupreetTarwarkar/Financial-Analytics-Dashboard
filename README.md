@@ -1,51 +1,75 @@
-# Financial Transactions Analytics Dashboard
+# Financial Analytics Dashboard
 
 ## Short Description / Purpose
 
-End-to-end financial analytics solution developed using Microsoft Fabric and Power BI. The dashboard analyzes 50,000 financial transactions to uncover revenue trends, customer behavior, transaction performance, geographic distribution, and customer performance insights.
+An end-to-end **Financial Analytics Dashboard** built using **Microsoft Fabric** and **Power BI** to analyze **50,000 financial transactions**. The solution transforms raw financial and customer data into meaningful business insights, enabling analysis of transaction performance, customer behavior, financial KPIs, customer segmentation, and customer-level revenue performance to support data-driven business decisions.
 
-## Tech Stack
+---
+
+# Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
-- Microsoft Fabric : Data engineering, storage, and analytics platform
-- Power BI : Data visualization and reporting
-- Power Query : Data transformation and cleaning
-- DAX (Data Analysis Expressions) : Measures and business calculations
-- Data Modeling : Relationship management and analytical structure
-- SQL : Data extraction and transformation
-- Excel : Source data preparation and validation
+- **Microsoft Fabric** : Data engineering, storage, and analytics platform
+- **Dataflow Gen2** : Data ingestion and transformation
+- **Fabric Warehouse** : Centralized data storage
+- **SQL** : Data extraction and transformation
+- **Power Query** : Data cleaning and transformation
+- **Power BI** : Interactive dashboard development
+- **DAX (Data Analysis Expressions)** : Business calculations and KPIs
+- **Data Modeling** : Relationship management and analytical structure
+- **Excel** : Source data preparation and validation
 
-## Data Source
+---
+
+# Data Source
 
 The dashboard uses a financial transactions dataset containing:
 
-- 50,000 transaction records
+- 50,000 financial transactions
 - 3,983 customers
-- Transaction amount and revenue data
-- Merchant category information
-- Customer demographic details
-- Geographic information (State & City)
-- Transaction status and payment details
+- Customer demographic information
+- Customer segments
+- Occupation and income details
+- Transaction amount
+- Revenue, fee, and tax information
+- Merchant categories
+- Transaction status
+- Transaction types
+- State-wise geographic information
 
-## Features / Highlights
+---
 
-### Business Problem
+# Features / Highlights
 
-Financial institutions generate large volumes of transaction data every day. However, identifying revenue drivers, customer behavior patterns, fraud risks, transaction performance, and geographic opportunities can be challenging without a centralized analytics solution.
+## Business Problem
 
-### Goal of the Dashboard
+Financial institutions process thousands of customer transactions every day. Without a centralized analytics solution, it becomes difficult to monitor transaction performance, understand customer behavior, measure financial KPIs, identify revenue opportunities, and evaluate customer profitability across different regions.
 
-- Monitor transaction performance
-- Analyze customer behavior
-- Track revenue trends
-- Evaluate geographic performance
-- Identify top-performing customers
-- Support data-driven business decisions
+---
 
-### Walk Through of Key Visuals
+## Goal of the Dashboard
 
-#### Business Overview
+- Monitor financial transaction performance
+- Analyze customer demographics and segmentation
+- Track transaction success and fraud metrics
+- Evaluate transaction trends across different states
+- Measure customer revenue performance
+- Support data-driven business decision-making
+
+---
+
+# Walk Through of Key Visuals
+
+## Home Page
+
+- Project Overview
+- Project Objectives
+- Dashboard Navigation
+
+---
+
+## Business Overview
 
 - Total Transactions
 - Total Customers
@@ -54,112 +78,123 @@ Financial institutions generate large volumes of transaction data every day. How
 - Fraud Rate
 - Average Transaction Amount
 - Monthly Transaction Trend
-- Transaction Status Analysis
+- Transaction Status Distribution
 - Transaction Type Analysis
-- Revenue by Merchant Category
-- Fraud Rate by Merchant Category
+- Transactions by Merchant Category
+- Transactions by Gender
+- Transactions by State
 
-#### Customer Analytics
+---
 
-- Monthly Customer Acquisition Trend
-- Customer Distribution by Gender
-- Customer Distribution by Age Group
-- Customer Distribution by Income Range
-- Customer Distribution by Segment
-- Customer Distribution by Occupation
+## Customer Analytics Overview
 
-#### Revenue Analytics
+- Retail Customers
+- Premium Customers
+- SME Customers
+- Corporate Customers
+- Wealth Customers
+- Customers by Income Range
+- Customers by Occupation
+- Customers by Age Group
+- Customers by Merchant Category
+- Customers by State
+- Customers by Transaction Type
 
-- Monthly Revenue Trend
-- Revenue by Income Range
-- Revenue by Age Group
-- Revenue by Occupation
-- Total Revenue
-- Total Fee Amount
-- Total Tax Amount
+---
 
-#### Geographic Analytics
+## Customer Performance Analytics
 
-- State-wise Customer Analysis
-- City-wise Customer Analysis
-- State-wise Revenue Analysis
-- City-wise Revenue Analysis
-- Total States
-- Total Cities
+- Total Transactions
+- Transaction Amount
+- Fee Amount
+- Tax Amount
+- Revenue
+- Average Revenue per Transaction
+- Customer Performance Table
+- Customer-wise Revenue Analysis
+- Customer-wise Transaction Analysis
 
-#### Customer Performance
+---
 
-- Top Customers by Revenue
-- Top Customers by Transactions
-- Customers with Highest Annual Income
-- Top Customers by Average Transaction Amount
-- Average Customer Income
-- Average Customer Age
-- Average Revenue per Customer
+# Business Impact & Insights
 
-### Business Impact & Insights
+- Monitor organization-wide transaction performance through business KPIs.
+- Analyze customer demographics and behavioral patterns.
+- Measure transaction success and fraud rates.
+- Identify customer segments contributing higher business value.
+- Evaluate customer profitability using revenue, fee, and tax metrics.
+- Compare transaction activity across different states.
+- Support faster, data-driven business decisions.
 
-- Identify high-value customers contributing maximum revenue
-- Monitor transaction success and failure trends
-- Understand customer demographics and segmentation
-- Evaluate revenue contribution across states and cities
-- Detect merchant categories with higher fraud rates
-- Support strategic business and customer acquisition decisions
+---
 
-## Dashboard Screenshots
+# Dashboard Screenshots
 
-### Business Overview
+## Home Page
 
-![Business Overview](Images/1.%20Business_Overview.png)
+![Home Page](Images/1.%20Home%20Page.png)
 
-### Customer Analytics
+---
 
-![Customer Analytics](Images/2.%20Customer_Analytics.png)
+## Business Overview
 
-### Revenue Analytics
+![Business Overview](Images/2.%20Business%20Overview.png)
 
-![Revenue Analytics](Images/3.%20Revenue_Analytics.png)
+---
 
-### Geographic Analytics
+## Customer Analytics Overview
 
-![Geographic Analytics](Images/4.%20Geographic_Analytics.png)
+![Customer Analytics](Images/3.%20Customer%20Analytics.png)
 
-### Customer Performance
+---
 
-![Customer Performance](Images/5.%20Customer_Performance.png)
+## Customer Performance Analytics
 
-## Dataset
+![Customer Performance](Images/4.%20Customer%20Performance.png)
 
-The dashboard uses customer and financial transaction datasets containing:
+---
+
+# Dataset
+
+The dashboard uses the following datasets:
 
 - customers.csv
 - finance_transactions.csv
 
-Dataset files are available in the Dataset folder of this repository.
+Dataset files are available in the **Dataset** folder of this repository.
 
-## SQL Scripts
+---
 
-The project includes SQL scripts used for data preparation and KPI analysis.
+# SQL Scripts
 
-- data_preparation.sql
-  - Created derived columns
-  - Transaction Year and Month columns
-  - Age Group categorization
-  - Income Range categorization
+The project includes SQL scripts used for data preparation and business analysis.
 
-- finance_analysis.sql
-  - KPI calculations
-  - Revenue analysis
-  - Customer analysis
-  - Transaction analysis
-  - Fraud analysis
+### data_preparation.sql
 
-SQL files are available in the SQL folder of this repository.
+- Data cleaning
+- Derived columns
+- Customer segmentation
+- Age Group categorization
+- Income Range categorization
+- Transaction Date transformation
 
-## Power BI Report
+### finance_analysis.sql
 
-The complete Power BI dashboard file is included in this repository.
+- KPI calculations
+- Customer analysis
+- Transaction analysis
+- Revenue analysis
+- Financial metrics
+- Customer performance analysis
 
-- Financial Report.pbix
+SQL files are available in the **SQL** folder of this repository.
 
-The PBIX file can be downloaded to explore the report, data model, measures, and visualizations.
+---
+
+# Power BI Report
+
+The complete Power BI dashboard (.pbix) file is included in the **PBIX** folder of this repository.
+
+- Financial Analytics Dashboard.pbix
+
+The PBIX file can be downloaded to explore the report, data model, DAX measures, Power Query transformations, and interactive visualizations.
