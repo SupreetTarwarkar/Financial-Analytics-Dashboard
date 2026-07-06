@@ -199,7 +199,7 @@ The PBIX file can be downloaded to explore the report, data model, DAX measures,
 
 A complete walkthrough of the Microsoft Fabric and Power BI implementation can be viewed using the link below:
 
-**<Add Your Google Drive / YouTube Link Here>**
+**https://drive.google.com/file/d/1TH_XSJKhqvtIDL_peIvsGN03T-RDyEfg/view?usp=sharing**
 
 The walkthrough covers:
 
