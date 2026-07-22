@@ -210,3 +210,10 @@ The walkthrough covers:
 - DAX Measures
 - Semantic Model
 - Power BI Dashboard Development
+
+## 👤 Author
+
+**Supreet Tarwarkar**
+
+- GitHub: https://github.com/SupreetTarwarkar
+- LinkedIn: https://www.linkedin.com/in/supreettarwarkar/
