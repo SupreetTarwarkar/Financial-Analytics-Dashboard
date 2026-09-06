@@ -211,9 +211,9 @@ The walkthrough covers:
 - Semantic Model
 - Power BI Dashboard Development
 
-## 👤 Author
+## Author
 
-**Supreet Tarwarkar**
+**Supreet Jayant Tarwarkar**
 
-- GitHub: https://github.com/SupreetTarwarkar
-- LinkedIn: https://www.linkedin.com/in/supreettarwarkar/
+- [GitHub](https://github.com/SupreetTarwarkar)
+- [LinkedIn](https://www.linkedin.com/in/supreettarwarkar/)
