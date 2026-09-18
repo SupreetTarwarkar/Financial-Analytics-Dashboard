@@ -1,12 +1,12 @@
-# Financial Analytics Dashboard
+<div align="center"><h1>Financial Analytics Dashboard</h1></div>
 
-## Short Description / Purpose
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
+<div align="center"><b>SHORT DESCRIPTION / PURPOSE</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 An end-to-end **Financial Analytics Dashboard** built using **Microsoft Fabric**, **Power BI**, and **SQL** to analyze **50,000 financial transactions**. The solution transforms raw financial and customer data into actionable insights, enabling organizations to monitor transaction performance, customer behavior, financial KPIs, customer segmentation, and customer-level revenue performance for data-driven decision-making.
 
----
-
-# Tech Stack
+<div align="center"><h1>Tech Stack</h1></div>
 
 The dashboard was built using the following tools and technologies:
 
@@ -20,9 +20,7 @@ The dashboard was built using the following tools and technologies:
 - **Data Modeling** : Relationship management and analytical structure
 - **Excel** : Source data preparation and validation
 
----
-
-# Data Source
+<div align="center"><h1>Data Source</h1></div>
 
 The dashboard uses a financial transactions dataset containing:
 
@@ -36,17 +34,17 @@ The dashboard uses a financial transactions dataset containing:
 - Transaction type
 - State-wise geographic information
 
----
+<div align="center"><h1>Features / Highlights</h1></div>
 
-# Features / Highlights
-
-## Business Problem
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
+<div align="center"><b>BUSINESS PROBLEM</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 Financial institutions generate thousands of customer transactions every day. However, monitoring financial performance, understanding customer behavior, tracking transaction success, identifying fraud trends, and evaluating customer profitability become challenging without a centralized analytics platform.
 
----
-
-## Goal of the Dashboard
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
+<div align="center"><b>GOAL OF THE DASHBOARD</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Monitor financial transaction performance
 - Analyze customer demographics and segmentation
@@ -56,19 +54,19 @@ Financial institutions generate thousands of customer transactions every day. Ho
 - Analyze customer-level profitability
 - Support data-driven business decisions
 
----
+<div align="center"><h1>Walk Through of Key Visuals</h1></div>
 
-# Walk Through of Key Visuals
-
-## Landing Page
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
+<div align="center"><b>LANDING PAGE</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Project Overview
 - Project Objectives
 - Interactive Dashboard Navigation
 
----
-
-## Business Overview
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
+<div align="center"><b>BUSINESS OVERVIEW</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Total Transactions
 - Total Customers
@@ -83,9 +81,9 @@ Financial institutions generate thousands of customer transactions every day. Ho
 - Transactions by Gender
 - Transactions by State
 
----
-
-## Customer Analytics Overview
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
+<div align="center"><b>CUSTOMER ANALYTICS OVERVIEW</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Retail Customers
 - Premium Customers
@@ -99,9 +97,9 @@ Financial institutions generate thousands of customer transactions every day. Ho
 - Customers by State
 - Customers by Transaction Type
 
----
-
-## Customer Performance Analytics
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
+<div align="center"><b>CUSTOMER PERFORMANCE ANALYTICS</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Total Transactions
 - Transaction Amount
@@ -113,9 +111,7 @@ Financial institutions generate thousands of customer transactions every day. Ho
 - Customer-wise Transaction Analysis
 - Detailed Customer Performance Table
 
----
-
-# Business Impact & Insights
+<div align="center"><h1>Business Impact & Insights</h1></div>
 
 - Analyzed **50,000 financial transactions** across **3,983 customers**, processing a total transaction value of **₹455.53M**.
 - Achieved an overall **85.74% transaction success rate**, while identifying a **1.26% fraud rate** for monitoring transaction quality and risk.
@@ -125,29 +121,29 @@ Financial institutions generate thousands of customer transactions every day. Ho
 - Compared transaction activity across multiple states to identify regional business performance and customer distribution.
 - Enabled customer-level performance benchmarking through interactive revenue and transaction analytics to support strategic financial decision-making.
 
----
+<div align="center"><h1>Dashboard Screenshots</h1></div>
 
-# Dashboard Screenshots
-
-### Landing Page
+<div align="center"><b>Landing Page</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Landing Page](Images/1.%20Home%20Page.png)
 
-### Business Overview
+<div align="center"><b>Business Overview</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Business Overview](Images/2.%20Business%20Overview.png)
 
-### Customer Analytics Overview
+<div align="center"><b>Customer Analytics Overview</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Customer Analytics Overview](Images/3.%20Customer%20Analytics.png)
 
-### Customer Performance Analytics
+<div align="center"><b>Customer Performance Analytics</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Customer Performance Analytics](Images/4.%20Customer%20Performance.png)
 
----
-
-# Dataset
+<div align="center"><h1>Dataset</h1></div>
 
 The dashboard uses customer and financial transaction datasets containing:
 
@@ -156,13 +152,12 @@ The dashboard uses customer and financial transaction datasets containing:
 
 Dataset files are available in the **Dataset** folder of this repository.
 
----
-
-# SQL Scripts
+<div align="center"><h1>SQL Scripts</h1></div>
 
 The project includes SQL scripts used for data preparation and transformation.
 
-### data_preparation.sql
+<div align="center"><b>data_preparation.sql</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Data Cleaning
 - Data Transformation
@@ -172,7 +167,8 @@ The project includes SQL scripts used for data preparation and transformation.
 - Income Range Categorization
 - Transaction Date Transformation
 
-### finance_analysis.sql
+<div align="center"><b>finance_analysis.sql</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - KPI Calculations
 - Customer Analysis
@@ -183,9 +179,7 @@ The project includes SQL scripts used for data preparation and transformation.
 
 SQL files are available in the **SQL** folder of this repository.
 
----
-
-# Power BI Report
+<div align="center"><h1>Power BI Report</h1></div>
 
 The complete Power BI dashboard file is included in this repository.
 
@@ -193,9 +187,7 @@ The complete Power BI dashboard file is included in this repository.
 
 The PBIX file can be downloaded to explore the report, data model, DAX measures, Power Query transformations, and interactive visualizations.
 
----
-
-# Project Walkthrough Video
+<div align="center"><h1>Project Walkthrough Video</h1></div>
 
 A complete walkthrough of the Microsoft Fabric and Power BI implementation can be viewed using the link below:
 
@@ -211,7 +203,9 @@ The walkthrough covers:
 - Semantic Model
 - Power BI Dashboard Development
 
-## Author
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
+<div align="center"><b>AUTHOR</b></div>
+<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 **Supreet Jayant Tarwarkar**
 
