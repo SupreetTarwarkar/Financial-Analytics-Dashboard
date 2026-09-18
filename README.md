@@ -2,7 +2,6 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>SHORT DESCRIPTION / PURPOSE</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 An end-to-end **Financial Analytics Dashboard** built using **Microsoft Fabric**, **Power BI**, and **SQL** to analyze **50,000 financial transactions**. The solution transforms raw financial and customer data into actionable insights, enabling organizations to monitor transaction performance, customer behavior, financial KPIs, customer segmentation, and customer-level revenue performance for data-driven decision-making.
 
@@ -38,13 +37,11 @@ The dashboard uses a financial transactions dataset containing:
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>BUSINESS PROBLEM</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 Financial institutions generate thousands of customer transactions every day. However, monitoring financial performance, understanding customer behavior, tracking transaction success, identifying fraud trends, and evaluating customer profitability become challenging without a centralized analytics platform.
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>GOAL OF THE DASHBOARD</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Monitor financial transaction performance
 - Analyze customer demographics and segmentation
@@ -58,7 +55,6 @@ Financial institutions generate thousands of customer transactions every day. Ho
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>LANDING PAGE</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Project Overview
 - Project Objectives
@@ -66,7 +62,6 @@ Financial institutions generate thousands of customer transactions every day. Ho
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>BUSINESS OVERVIEW</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Total Transactions
 - Total Customers
@@ -83,7 +78,6 @@ Financial institutions generate thousands of customer transactions every day. Ho
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>CUSTOMER ANALYTICS OVERVIEW</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Retail Customers
 - Premium Customers
@@ -99,7 +93,6 @@ Financial institutions generate thousands of customer transactions every day. Ho
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>CUSTOMER PERFORMANCE ANALYTICS</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Total Transactions
 - Transaction Amount
@@ -124,22 +117,18 @@ Financial institutions generate thousands of customer transactions every day. Ho
 <div align="center"><h1>Dashboard Screenshots</h1></div>
 
 <div align="center"><b>Landing Page</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Landing Page](Images/1.%20Home%20Page.png)
 
 <div align="center"><b>Business Overview</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Business Overview](Images/2.%20Business%20Overview.png)
 
 <div align="center"><b>Customer Analytics Overview</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Customer Analytics Overview](Images/3.%20Customer%20Analytics.png)
 
 <div align="center"><b>Customer Performance Analytics</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Customer Performance Analytics](Images/4.%20Customer%20Performance.png)
 
@@ -157,7 +146,6 @@ Dataset files are available in the **Dataset** folder of this repository.
 The project includes SQL scripts used for data preparation and transformation.
 
 <div align="center"><b>data_preparation.sql</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Data Cleaning
 - Data Transformation
@@ -168,7 +156,6 @@ The project includes SQL scripts used for data preparation and transformation.
 - Transaction Date Transformation
 
 <div align="center"><b>finance_analysis.sql</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - KPI Calculations
 - Customer Analysis
@@ -205,7 +192,6 @@ The walkthrough covers:
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>AUTHOR</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 **Supreet Jayant Tarwarkar**
 
