@@ -1,12 +1,12 @@
 # Financial Analytics Dashboard
 
-## Short Description / Purpose
+### Short Description / Purpose
 
 An end-to-end **Financial Analytics Dashboard** built using **Microsoft Fabric**, **Power BI**, and **SQL** to analyze **50,000 financial transactions**. The solution transforms raw financial and customer data into actionable insights, enabling organizations to monitor transaction performance, customer behavior, financial KPIs, customer segmentation, and customer-level revenue performance for data-driven decision-making.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -22,7 +22,7 @@ The dashboard was built using the following tools and technologies:
 
 ---
 
-# Data Source
+## Data Source
 
 The dashboard uses a financial transactions dataset containing:
 
@@ -38,15 +38,15 @@ The dashboard uses a financial transactions dataset containing:
 
 ---
 
-# Features / Highlights
+## Features / Highlights
 
-## Business Problem
+### Business Problem
 
 Financial institutions generate thousands of customer transactions every day. However, monitoring financial performance, understanding customer behavior, tracking transaction success, identifying fraud trends, and evaluating customer profitability become challenging without a centralized analytics platform.
 
 ---
 
-## Goal of the Dashboard
+### Goal of the Dashboard
 
 - Monitor financial transaction performance
 - Analyze customer demographics and segmentation
@@ -58,9 +58,9 @@ Financial institutions generate thousands of customer transactions every day. Ho
 
 ---
 
-# Walk Through of Key Visuals
+## Walk Through of Key Visuals
 
-## Landing Page
+### Landing Page
 
 - Project Overview
 - Project Objectives
@@ -68,7 +68,7 @@ Financial institutions generate thousands of customer transactions every day. Ho
 
 ---
 
-## Business Overview
+### Business Overview
 
 - Total Transactions
 - Total Customers
@@ -85,7 +85,7 @@ Financial institutions generate thousands of customer transactions every day. Ho
 
 ---
 
-## Customer Analytics Overview
+### Customer Analytics Overview
 
 - Retail Customers
 - Premium Customers
@@ -101,7 +101,7 @@ Financial institutions generate thousands of customer transactions every day. Ho
 
 ---
 
-## Customer Performance Analytics
+### Customer Performance Analytics
 
 - Total Transactions
 - Transaction Amount
@@ -115,7 +115,7 @@ Financial institutions generate thousands of customer transactions every day. Ho
 
 ---
 
-# Business Impact & Insights
+## Business Impact & Insights
 
 - Analyzed **50,000 financial transactions** across **3,983 customers**, processing a total transaction value of **₹455.53M**.
 - Achieved an overall **85.74% transaction success rate**, while identifying a **1.26% fraud rate** for monitoring transaction quality and risk.
@@ -127,7 +127,7 @@ Financial institutions generate thousands of customer transactions every day. Ho
 
 ---
 
-# Dashboard Screenshots
+## Dashboard Screenshots
 
 ### Landing Page
 
@@ -147,7 +147,7 @@ Financial institutions generate thousands of customer transactions every day. Ho
 
 ---
 
-# Dataset
+## Dataset
 
 The dashboard uses customer and financial transaction datasets containing:
 
@@ -158,7 +158,7 @@ Dataset files are available in the **Dataset** folder of this repository.
 
 ---
 
-# SQL Scripts
+## SQL Scripts
 
 The project includes SQL scripts used for data preparation and transformation.
 
@@ -185,7 +185,7 @@ SQL files are available in the **SQL** folder of this repository.
 
 ---
 
-# Power BI Report
+## Power BI Report
 
 The complete Power BI dashboard file is included in this repository.
 
@@ -195,7 +195,7 @@ The PBIX file can be downloaded to explore the report, data model, DAX measures,
 
 ---
 
-# Project Walkthrough Video
+## Project Walkthrough Video
 
 A complete walkthrough of the Microsoft Fabric and Power BI implementation can be viewed using the link below:
 
